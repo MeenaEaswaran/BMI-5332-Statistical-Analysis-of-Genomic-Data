@@ -14,7 +14,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 
 ---
 
-### 2. Exploratory Daa
+### 2. Exploratory Data
 - **Tools used:** 
     - Principal Component Analysis (PCA) using the prcomp function from R's stats package.
     - Hierarchical clustering using the ComplexHeatmap R package.
