@@ -26,11 +26,11 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 - R scripts can be found in this [folder].
   
 **Figures:**
-- [Human Dataset PCA]
-- [Mouse Dataset PCA]
-- [Mouse Dataset Heatmap]
+- [Human Dataset PCA](Assets/EDA_humandataset.jpeg)
+- [Mouse Dataset PCA](Assets/EDA_mousedatasets_male_and_female.jpeg)
+- [Mouse Dataset Heatmap](Assets/mouse_complex_heatmap.jpeg)
 
-  ---
+---
   
 ### 3. Differential Expression Analysis
 - **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package for data visualization.
@@ -44,7 +44,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 - R scripts can be found in this [folder].
   
 **Figures:**
-- [CS-exposed vs. Control Volcano Plot]
+- [CS-exposed vs. Control Volcano Plot](Assets/volcanoplot_mouse_DEG.jpg)
 
   ---
 
@@ -60,7 +60,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
   - Minimum enrichment factor = 1.5
   
 **Figures:**
-- [Enrichment bar plot]
+- [Enrichment bar plot](Assets/HeatmapSelectedGO.png)
   
 ---
 
@@ -87,13 +87,11 @@ If you use the tools or dataset mentioned in this repository in your research, p
 
 - Mahi, N. Al, Najafabadi, M. F., Pilarczyk, M., Kouril, M., & Medvedovic, M. (2019). GREIN: An Interactive Web Platform for Re-analyzing GEO RNA-seq Data. Scientific Reports, 9(1). https://doi.org/10.1038/S41598-019-43935-8
 
-- Miller, M. A., Danhorn, T., Cruickshank-Quinn, C. I., Leach, S. M., Jacobson, S., Strand, M. J., Reisdorph, N. A., Bowler, R. P., Petrache, I., & Kechris, K. (2017). Gene and metabolite time-course response to cigarette smoking in mouse lung and plasma. PLoS ONE, 12(6), e0178281. https://doi.org/10.1371/JOURNAL.PONE.0178281
-
 - Zhou, Y., Zhou, B., Pache, L., Chang, M., Khodabakhshi, A. H., Tanaseichuk, O., Benner, C., & Chanda, S. K. (2019). Metascape provides a biologist-oriented resource for the analysis of systems-level datasets. Nature Communications 2019 10:1, 10(1), 1–10. https://doi.org/10.1038/s41467-019-09234-6
 
 ---
 
-For questions or issues, please contact the repository maintainer. Refer to the [final class paper] for detailed information and results.
+For questions or issues, please contact the repository maintainer. Refer to the [final class paper](Assets/BMI5332_Easwaran_Meena_Final_project_report.pdf) for detailed information and results.
 
 This repository is **solely for educational purposes and serves as a backup** for my graduate school assignments related to the **BMI 5332: Statistical Analysis of Genomic Data** course at McWilliams School of Biomedical Informatics at UTHealth Houston.
 
