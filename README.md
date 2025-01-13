@@ -23,7 +23,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
     - Male control, Female control, Male and Female CS-exposed mice groups (n = 6 each)
     - Two male non-smokers, Six male smokers, Six female non-smokers, and two female smokers
 
-- R scripts can be found in this [folder].
+- R scripts can be found in this [folder](scripts).
   
 **Figures:**
 - [Human Dataset PCA](Assets/EDA_humandataset.jpeg)
@@ -41,7 +41,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
    - False Discovery Rate (FDR) ≤ 0.05
    - |Fold Change| > 1.5
      
-- R scripts can be found in this [folder].
+- R scripts can be found in this [folder](scripts).
   
 **Figures:**
 - [CS-exposed vs. Control Volcano Plot](Assets/volcanoplot_mouse_DEG.jpg)
