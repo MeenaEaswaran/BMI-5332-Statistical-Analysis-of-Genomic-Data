@@ -26,9 +26,17 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 - R scripts can be found in this [folder](scripts).
   
 **Figures:**
-- [Human Dataset PCA](Assets/EDA_humandataset.jpeg)
-- [Mouse Dataset PCA](Assets/EDA_mousedatasets_male_and_female.jpeg)
-- [Mouse Dataset Heatmap](Assets/mouse_complex_heatmap.jpeg)
+## Human Dataset PCA
+
+![Human Dataset PCA](Assets/EDA_humandataset.jpeg)
+
+## Mouse Dataset PCA
+
+![Mouse Dataset PCA](Assets/EDA_mousedatasets_male_and_female.jpeg)
+
+## Mouse Dataset Heatmap
+
+![Mouse Dataset Heatmap](Assets/mouse_complex_heatmap.jpeg)
 
 ---
   
