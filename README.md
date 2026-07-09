@@ -52,7 +52,9 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 - R scripts can be found in this [folder](scripts).
   
 **Figures:**
-- [CS-exposed vs. Control Volcano Plot](Assets/volcanoplot_mouse_DEG.jpg)
+## CS-exposed vs. Control Volcano Plot
+
+![CS-exposed vs. Control Volcano Plot](Assets/volcanoplot_mouse_DEG.jpg)
 
   ---
 
@@ -68,7 +70,9 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
   - Minimum enrichment factor = 1.5
   
 **Figures:**
-- [Enrichment bar plot](Assets/HeatmapSelectedGO.png)
+## Enrichment Bar Plot
+
+![Enrichment Bar Plot](Assets/HeatmapSelectedGO.png)
   
 ---
 
