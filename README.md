@@ -8,15 +8,14 @@ This repository documents a **bioinformatics project** for the BMI 5332: Statist
 ## Project Overview
 
 ### 1. Data Retrieval
-The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accession ID **[GSE229038](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE229038)**  and the human bronchial epithelial cell Bulk RNA sequencing dataset with the accession ID **[GSE152446](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152446)** was accessed through the **National Center for Biotechnology Information Gene Expression Omnibus (NCBI GEO)**. 
+The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accession ID **[GSE229038](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE229038)** and the human bronchial epithelial cell Bulk RNA sequencing dataset with the accession ID **[GSE152446](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152446)** was accessed through the **National Center for Biotechnology Information Gene Expression Omnibus (NCBI GEO)**. 
 
 - Raw and normalized count data were retrieved using the NIH LINCS tool **[GREIN:GEO RNA-seq Experiments Interactive Navigator](https://www.ilincs.org/apps/grein/?gse=)**.
 
 ---
 
 ### 2. Exploratory Data
-- **Packages used:** 
-    - Principal Component Analysis (PCA) using the prcomp function from R's stats package.
+- **Packages used:** - Principal Component Analysis (PCA) using the prcomp function from R's stats package.
     - Hierarchical clustering using the ComplexHeatmap R package.
       
 - **Sample groups and sizes:**
@@ -28,15 +27,15 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 **Figures:**
 ## Human Dataset PCA
 
-![Human Dataset PCA](Assets/EDA_humandataset.jpeg)
+<img src="Assets/EDA_humandataset.jpeg" alt="Human Dataset PCA" width="500">
 
 ## Mouse Dataset PCA
 
-![Mouse Dataset PCA](Assets/EDA_mousedatasets_male_and_female.jpeg)
+<img src="Assets/EDA_mousedatasets_male_and_female.jpeg" alt="Mouse Dataset PCA" width="500">
 
 ## Mouse Dataset Heatmap
 
-![Mouse Dataset Heatmap](Assets/mouse_complex_heatmap.jpeg)
+<img src="Assets/mouse_complex_heatmap.jpeg" alt="Mouse Dataset Heatmap" width="500">
 
 ---
   
@@ -54,7 +53,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 **Figures:**
 ## CS-exposed vs. Control Volcano Plot
 
-![CS-exposed vs. Control Volcano Plot](Assets/volcanoplot_mouse_DEG.jpg)
+<img src="Assets/volcanoplot_mouse_DEG.jpg" alt="CS-exposed vs. Control Volcano Plot" width="500">
 
   ---
 
@@ -72,7 +71,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 **Figures:**
 ## Enrichment Bar Plot
 
-![Enrichment Bar Plot](Assets/HeatmapSelectedGO.png)
+<img src="Assets/HeatmapSelectedGO.png" alt="Enrichment Bar Plot" width="500">
   
 ---
 
@@ -103,9 +102,4 @@ If you use the tools or dataset mentioned in this repository in your research, p
 
 ---
 
-For questions or issues, please contact the repository maintainer. Refer to the [final class paper](Assets/BMI5332_Easwaran_Meena_Final_project_report.pdf) for detailed information and results.
-
-This repository is **solely for educational purposes and serves as a backup** for my graduate school assignments related to the **BMI 5332: Statistical Analysis of Genomic Data** course at McWilliams School of Biomedical Informatics at UTHealth Houston.
-
-
-
+For questions or issues, please contact the repository maintainer. Refer to the [final class paper](Assets/BMI5332_Easwaran_Meena_
