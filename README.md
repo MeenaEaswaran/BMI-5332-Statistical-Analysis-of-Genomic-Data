@@ -15,7 +15,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 ---
 
 ### 2. Exploratory Data
-- **Tools used:** 
+- **Packages used:** 
     - Principal Component Analysis (PCA) using the prcomp function from R's stats package.
     - Hierarchical clustering using the ComplexHeatmap R package.
       
@@ -41,7 +41,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
 ---
   
 ### 3. Differential Expression Analysis
-- **Tools used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package for data visualization.
+- **Packages used:** DESeq2 R package for differential expression analysis and EnhancedVolcano R package for data visualization.
   - CS-exposed vs. Control Male mice
   - Data Preprocessing: Rows with low gene counts (<10) were excluded before analysis.
  
@@ -59,7 +59,7 @@ The mouse tracheal epithelial cell Bulk RNA sequencing dataset with the accessio
   ---
 
 ### 3. Functional Enrichment Analysis
-- **Tools used:**
+- **Analytical Tools used:**
   - **[Metascape](https://metascape.org/gp/index.html#/main/step1)** was used for comparative analysis across experimental timepoints.
   - GO Biological Process (BP), Cellular Compartment (CC), and Molecular Function (MF)
   - Pathway databases: KEGG, Reactome, and WikiPathways
